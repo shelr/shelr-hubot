@@ -7,4 +7,4 @@ export HUBOT_IRC_SERVER_FAKE_SSL="true"
 export HUBOT_IRC_UNFLOOD="true"
 export HUBOT_IRC_USESSL="true"
 
-exec bin/hubot -a irc --name ${HUBOT_IRC_NICK} --alial '\'
+exec bin/hubot -a irc --name ${HUBOT_IRC_NICK} --alias '\'
